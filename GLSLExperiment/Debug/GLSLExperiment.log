@@ -1,0 +1,37 @@
+﻿  textfile.cpp
+  InitShader.cpp
+  example1.cpp
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(105): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(107): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(110): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(98): warning C4101: 'line': unreferenced local variable
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(146): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(146): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(150): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(150): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(158): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(158): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(206): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(306): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(308): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(317): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(332): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(339): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(352): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\jzhu3\desktop\jarway-cs543-hw1\glslexperiment\example1.cpp(439): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating Code...
+example1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> C:\Users\jzhu3\Desktop\Jarway-CS543-HW1\Debug\GLSLExperiment.exe
+  GLSLExperiment.vcxproj -> C:\Users\jzhu3\Desktop\Jarway-CS543-HW1\Debug\GLSLExperiment.pdb (Full PDB)
