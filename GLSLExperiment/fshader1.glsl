@@ -1,8 +1,9 @@
 #version 150
 
 out vec4  fColor;
+uniform vec4 myColor;
 
 void main()
 {
-    fColor = vec4( 0.0, 0.0, 1.0, 1.0 );
+    fColor = myColor;
 }
